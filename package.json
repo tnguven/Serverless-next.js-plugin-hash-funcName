@@ -1,6 +1,6 @@
 {
   "name": "serverless-nextjs-plugin-hash-funcname",
-  "version": "2.4.12",
+  "version": "2.4.13",
   "description": "A serverless plugin for nextjs 8 serverless target",
   "main": "index.js",
   "author": "Daniel Conde Marin <danielconde9@gmail.com>",
