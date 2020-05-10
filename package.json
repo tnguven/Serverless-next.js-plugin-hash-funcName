@@ -1,5 +1,5 @@
 {
-  "name": "serverless-nextjs-plugin-hash-func-name",
+  "name": "serverless-nextjs-plugin-hash-funcname",
   "version": "2.4.12",
   "description": "A serverless plugin for nextjs 8 serverless target",
   "main": "index.js",
@@ -9,6 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/tnguven/serverless-next.js.git"
   },
+  "keywords": [
+    "serverless",
+    "nextjs",
+    "lambda",
+    "next",
+    "api gateway"
+  ],
   "dependencies": {
     "@mapbox/s3urls": "^1.5.3",
     "chalk": "^2.4.2",
