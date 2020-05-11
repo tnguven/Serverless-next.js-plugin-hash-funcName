@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnguven/serverless-next.js.git"
+    "url": "git+https://github.com/tnguven/Serverless-next.js-plugin-hash-funcName"
   },
   "keywords": [
     "serverless",
@@ -16,6 +16,9 @@
     "next",
     "api gateway"
   ],
+  "peerDependencies": {
+    "next": "^8.0.0"
+  },
   "dependencies": {
     "@mapbox/s3urls": "^1.5.3",
     "chalk": "^2.4.2",
